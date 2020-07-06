@@ -15,6 +15,9 @@ using namespace std;
 //Below are our variables vv
 string name;
 int ClassChoice;
+int hp;
+int attack;
+
 
 int main()
 {
@@ -26,5 +29,9 @@ int main()
 	cout << "3. Mage" << endl;
 	cin >> ClassChoice;
 
+	for (ClassChoice = 1)
+	{
+		hp
+	}
 }
 
